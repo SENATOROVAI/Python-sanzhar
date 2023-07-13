@@ -1,1 +1,1 @@
-# Python-sanzhar
+# I love math
